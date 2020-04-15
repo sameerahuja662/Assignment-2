@@ -1,0 +1,42 @@
+
+/* Class = "UITextField"; text = "Type Field"; ObjectID = "7Pf-35-73R"; */
+"7Pf-35-73R.text" = "Type Field";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "HAH-65-jVs"; */
+"HAH-65-jVs.text" = "Welcome";
+
+/* Class = "UINavigationItem"; title = "PokeDex"; ObjectID = "Ldh-A7-G6z"; */
+"Ldh-A7-G6z.title" = "PokeDex";
+
+/* Class = "UILabel"; text = "nameLabel"; ObjectID = "NMn-Ql-QC5"; */
+"NMn-Ql-QC5.text" = "Name";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "Q1s-it-zgI"; */
+"Q1s-it-zgI.text" = "Description";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "U5a-e0-LsZ"; */
+"U5a-e0-LsZ.normalTitle" = "Start";
+
+/* Class = "UITextField"; text = "Name Field"; ObjectID = "V7K-yA-xAE"; */
+"V7K-yA-xAE.text" = "Name";
+
+/* Class = "UITextField"; text = "Rank Field"; ObjectID = "aln-2j-Ghe"; */
+"aln-2j-Ghe.text" = "Rank";
+
+/* Class = "UILabel"; text = "Rank"; ObjectID = "b8L-cV-hZy"; */
+"b8L-cV-hZy.text" = "Rank";
+
+/* Class = "UILabel"; text = "pokedexNumberLabel"; ObjectID = "dli-EC-DJd"; */
+"dli-EC-DJd.text" = "Rank";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "hsp-uv-37H"; */
+"hsp-uv-37H.text" = "Type";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "k3L-mt-GHA"; */
+"k3L-mt-GHA.text" = "Name";
+
+/* Class = "UITextField"; text = "Desc Field"; ObjectID = "kNc-Td-Sut"; */
+"kNc-Td-Sut.text" = "Description";
+
+/* Class = "UILabel"; text = "typeLabel"; ObjectID = "tGB-iz-oUm"; */
+"tGB-iz-oUm.text" = "Type";

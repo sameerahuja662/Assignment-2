@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Description Label"; ObjectID = "AA5-FT-SlN"; */
+"AA5-FT-SlN.text" = "Описание Метка";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "HAH-65-jVs"; */
+"HAH-65-jVs.text" = "желанный";
+
+/* Class = "UINavigationItem"; title = "PokeDex"; ObjectID = "Ldh-A7-G6z"; */
+"Ldh-A7-G6z.title" = "PokeDex";
+
+/* Class = "UILabel"; text = "nameLabel"; ObjectID = "NMn-Ql-QC5"; */
+"NMn-Ql-QC5.text" = "Название Метка";
+
+/* Class = "UILabel"; text = "Rank Field"; ObjectID = "NaF-cA-6Uv"; */
+"NaF-cA-6Uv.text" = "Ранг Поле";
+
+/* Class = "UILabel"; text = "Name Field"; ObjectID = "Nhb-UJ-Q5U"; */
+"Nhb-UJ-Q5U.text" = "Имя Поле";
+
+/* Class = "UILabel"; text = "Select Pokemon Type"; ObjectID = "SZu-nR-YoY"; */
+"SZu-nR-YoY.text" = "Выберите тип покемонов";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "U5a-e0-LsZ"; */
+"U5a-e0-LsZ.normalTitle" = "Начало";
+
+/* Class = "UILabel"; text = "Type Field"; ObjectID = "b0U-18-31X"; */
+"b0U-18-31X.text" = "Тип поля";
+
+/* Class = "UILabel"; text = "Rank"; ObjectID = "b8L-cV-hZy"; */
+"b8L-cV-hZy.text" = "Ранг";
+
+/* Class = "UILabel"; text = "pokedexNumberLabel"; ObjectID = "dli-EC-DJd"; */
+"dli-EC-DJd.text" = "Pokedex номер этикетки";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "hsp-uv-37H"; */
+"hsp-uv-37H.text" = "Тип";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "k3L-mt-GHA"; */
+"k3L-mt-GHA.text" = "имя";
+
+/* Class = "UITextField"; text = "Rating Field"; ObjectID = "pUy-Am-j5w"; */
+"pUy-Am-j5w.text" = "Поле рейтинга";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "pxc-78-HB9"; */
+"pxc-78-HB9.text" = "RatinРейтингg";
+
+/* Class = "UILabel"; text = "typeLabel"; ObjectID = "tGB-iz-oUm"; */
+"tGB-iz-oUm.text" = "тип метки";
