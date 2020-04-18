@@ -15,7 +15,9 @@
         "rating": "5",
         "type": "Grass",
         "about": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
-        "image": "https://github.com/sameerahuja662/PokedexImages/blob/master/Ivysaur.png?raw=true"
+        "image": "https://github.com/sameerahuja662/PokedexImages/blob/master/Ivysaur.png?raw=true",
+        "lat": "44.0418",
+        "long": "-79.4947"
       },
       {
         "name": "Venusaur",
@@ -23,7 +25,9 @@
         "rating": "5",
         "type": "Grass",
         "about": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
-        "image": "https://github.com/sameerahuja662/PokedexImages/blob/master/Venusaur.png?raw=true"
+        "image": "https://github.com/sameerahuja662/PokedexImages/blob/master/Venusaur.png?raw=true",
+        "lat": "44.0418",
+        "long": "-79.4947"
       },
       {
         "name": "Charmander",
@@ -31,7 +35,9 @@
         "rating": "5",
         "type": "Fire",
         "about": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
-        "image": "https://github.com/sameerahuja662/PokedexImages/blob/master/Charmander.png?raw=true"
+        "image": "https://github.com/sameerahuja662/PokedexImages/blob/master/Charmander.png?raw=true",
+        "lat": "44.0418",
+        "long": "-79.4947"
       },
       {
         "name": "Charizard",
@@ -39,7 +45,9 @@
         "rating": "5",
         "type": "Fire",
         "about": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
-        "image": "https://github.com/sameerahuja662/PokedexImages/blob/master/Charizard.png?raw=true"
+        "image": "https://github.com/sameerahuja662/PokedexImages/blob/master/Charizard.png?raw=true",
+        "lat": "44.0418",
+        "long": "-79.4947"
       },
       {
         "name": "Vulpix",
@@ -47,7 +55,9 @@
         "rating": "5",
         "type": "Fire",
         "about": "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its Trainer. The six tails become magnificently curled.",
-        "image": "https://github.com/sameerahuja662/PokedexImages/blob/master/Vulpix.png?raw=true"
+        "image": "https://github.com/sameerahuja662/PokedexImages/blob/master/Vulpix.png?raw=true",
+        "lat": "44.0418",
+        "long": "-79.4947"
       },
       {
         "name": "Squirtle",
@@ -55,7 +65,9 @@
         "rating": "5",
         "type": "Water",
         "about": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
-        "image": "https://github.com/sameerahuja662/PokedexImages/blob/master/Squirtle.png?raw=true"
+        "image": "https://github.com/sameerahuja662/PokedexImages/blob/master/Squirtle.png?raw=true",
+        "lat": "44.0418",
+        "long": "-79.4947"
       }
     ]
   }
