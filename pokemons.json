@@ -7,7 +7,9 @@
         "rating": "5",
         "type": "Grass",
         "about": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
-        "image": "https://github.com/sameerahuja662/PokedexImages/blob/master/Bulbasaur.png?raw=true"
+        "image": "https://github.com/sameerahuja662/PokedexImages/blob/master/Bulbasaur.png?raw=true",
+        "lat": "44.0418",
+        "long": "-79.4947"
       },
       {
         "name": "Ivysaur",
